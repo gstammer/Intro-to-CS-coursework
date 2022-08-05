@@ -1,0 +1,12 @@
+---
+:id: 73618426
+:submitters:
+- :name: Georgie Stammer
+  :email: georgiana.stammer@duke.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-04-07 22:28:49.197737000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-04-07 15:28:49.197737000 Z
+:status: processed
+:score: 49.0
